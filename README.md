@@ -18,6 +18,32 @@
 <h2>Languages & Tools</h2>
 
 <p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="64" height="64" src="https://github.com/user-attachments/assets/bf7e472c-959f-4a8b-b08b-4240fe42ab3a" alt="C++" /><br>C++
+    </td>
+    <td align="center">
+      <img width="64" height="64" src="https://github.com/user-attachments/assets/e4d87388-3c00-4695-bc41-0721c292b87d" alt="C" /><br>C
+    </td>
+    <td align="center">
+      <img width="64" height="64" src="https://github.com/user-attachments/assets/37a006ab-d407-4380-83cd-71975bc3e869" alt="JavaScript" /><br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="64" height="64" src="https://github.com/user-attachments/assets/b19c1bd7-a72d-4029-a436-c2f74dc3c985" alt="Python" /><br>Python
+    </td>
+    <td align="center">
+      <img width="64" height="64" src="https://github.com/user-attachments/assets/e0f7bdaf-ae5b-4e12-a372-5b3c953b9f28" alt="C#" /><br>C#
+    </td>
+    <td align="center">
+      <img width="64" height="64" src="https://github.com/user-attachments/assets/81054adb-3002-45d3-8795-39d3b28548d6" alt="Java" /><br>Java
+    </td>
+  </tr>
+</table>
+
 Fluent in C++, C, JavaScript, Python, C#, Java—and always curious to try new ones (Rust is on the list, I swear).<br><br>
 Comfortable in Docker containers, virtual machines, and occasionally battling dependency dragons.
 </p>
