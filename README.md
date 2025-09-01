@@ -33,5 +33,8 @@ I enjoy working with teams that share knowledge generously and ask "why" as ofte
 
 <p>
 💻 Favorite Linux distro? Ubuntu. Arch is cool, but maybe a tad overrated.<br>
-☕ Favorite drink? Coffee first, tea second (especially green or lavender).
+☕ Favorite drink? Coffee first, tea second (especially green or lavender).<br>
+🎵 Favorite music? Anything Daft Punk, always.<br>
+🎮 Favorite games? Mostly Nintendo games — but I occassionally play PC games like Minecraft.<br>
+🧪 Tech guilty pleasure? Adding ASCII art to code comments. Tasteful? Maybe. Necessary? Absolutely not.<br>
 </p>
