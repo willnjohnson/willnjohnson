@@ -32,6 +32,6 @@ I enjoy working with teams that share knowledge generously and ask "why" as ofte
 <h2>Fun facts</h2>
 
 <p>
-Favorite Linux distro? Ubuntu. Arch is cool, but maybe a tad overrated.<br>
-Favorite drink? Coffee first, tea second (especially green or lavender).
+💻 Favorite Linux distro? Ubuntu. Arch is cool, but maybe a tad overrated.<br>
+☕ Favorite drink? Coffee first, tea second (especially green or lavender).
 </p>
