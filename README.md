@@ -1,5 +1,13 @@
 <table>
   <tr>
+    <td>Digital Signature Verification <a href="https://github.com/willnjohnson/SigTail">(see here)</a></td>
+  </tr>
+  <tr>
+    <td>sigtail:a0xEcXYY::lqb0pmp0ADUdJ6qTUy0QZIiG/wMOk6rCyAZzgizMA2JgAb4DbMp861/8ejL4OXFONP+rqoZKLWE6ApQySfv6Ag==</td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td>
       <img width="458" src="https://github.com/user-attachments/assets/585645fb-2d25-4a20-83c1-dd75de7e104c" />
     </td>
