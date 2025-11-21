@@ -9,9 +9,6 @@
 <table>
   <tr>
     <td>
-      <img width="458" src="https://github.com/user-attachments/assets/585645fb-2d25-4a20-83c1-dd75de7e104c" />
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
       <p><strong>Hi, I'm a UTK graduate (MSc) and a self-taught ReactJS developer.</strong></p>
       <p>
         I've enjoyed programming since maybe 2010. My biggest strength is frontend development, though I definitely enjoy all parts of software.
