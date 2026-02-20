@@ -1,71 +1,62 @@
-<table>
-  <tr>
-    <td>Public ID: a0xEcXYY — Digital Signature Verification <a href="https://github.com/willnjohnson/SigTail">(see here)</a></td>
-  </tr>
-  <tr>
-    <td>sigtail:a0xEcXYY::lqb0pmp0ADUdJ6qTUy0QZIiG/wMOk6rCyAZzgizMA2JgAb4DbMp861/8ejL4OXFONP+rqoZKLWE6ApQySfv6Ag==</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <p><strong>Hi, I'm a UTK graduate (MSc) and a self-taught ReactJS developer.</strong></p>
-      <p>
-        I've enjoyed programming since maybe 2010. My biggest strength is frontend development, though I definitely enjoy all parts of software.
-        Also enjoy cybersecurity, old stories, linguistics, random food recipes, etc.
-      </p>
-    </td>
-  </tr>
-</table>
+# Hi, I'm William
 
-<br>
+[![M.Sc. in Computer Science](https://img.shields.io/badge/Computer%20Science-M.Sc.-blue?style=flat-square)](https://www.utk.edu/) [![Minor: Cybersecurity](https://img.shields.io/badge/Minor-Cybersecurity-orange?style=flat-square)](https://www.utk.edu/)
 
-<h2>Languages & Tools</h2>
+I graduated from the University of Tennessee, Knoxville, in 2024, and I'm interested in software engineering, dev. ops, cybersecurity, etc.
 
-<p>
+---
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="64" height="64" src="https://github.com/user-attachments/assets/bf7e472c-959f-4a8b-b08b-4240fe42ab3a" alt="C++" /><br>C++
-    </td>
-    <td align="center">
-      <img width="64" height="64" src="https://github.com/user-attachments/assets/e4d87388-3c00-4695-bc41-0721c292b87d" alt="C" /><br>C
-    </td>
-    <td align="center">
-      <img width="64" height="64" src="https://github.com/user-attachments/assets/37a006ab-d407-4380-83cd-71975bc3e869" alt="JavaScript" /><br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="64" height="64" src="https://github.com/user-attachments/assets/b19c1bd7-a72d-4029-a436-c2f74dc3c985" alt="Python" /><br>Python
-    </td>
-    <td align="center">
-      <img width="64" height="64" src="https://github.com/user-attachments/assets/e0f7bdaf-ae5b-4e12-a372-5b3c953b9f28" alt="C#" /><br>C#
-    </td>
-    <td align="center">
-      <img width="64" height="64" src="https://github.com/user-attachments/assets/81054adb-3002-45d3-8795-39d3b28548d6" alt="Java" /><br>Java
-    </td>
-  </tr>
-</table>
+Digital Signature
+- **Public ID:** `a0xEcXYY` — Digital Signature Verification [SigTail](https://github.com/willnjohnson/SigTail)
+```
 
-Fluent in C++, C, JavaScript, Python, C#, Java—and always curious to try new ones (Rust is on the list, I swear).<br><br>
-Comfortable in Docker containers, virtual machines, and occasionally battling dependency dragons.
-</p>
+sigtail:a0xEcXYY::lqb0pmp0ADUdJ6qTUy0QZIiG/wMOk6rCyAZzgizMA2JgAb4DbMp861/8ejL4OXFONP+rqoZKLWE6ApQySfv6Ag==
 
-<h2>Strengths</h2>
+```
 
-<p>
-Clear communication, strong documentation, and mentorship experience thanks to my time as an Undergraduate Research Assistant and as a Graduate Teaching Assistant.<br><br>
-I enjoy working with teams that share knowledge generously and ask "why" as often as "how."
-</p>
+---
 
-<h2>Fun facts</h2>
+### About Me
+I’m a passionate STEM enthusiast who enjoys **Computer Science**. My early programming days began in high school with **Java** around 2012. I then explored **ES6 JavaScript**, **React**, **Solidity**, **NodeJS**, and other frameworks, languages, and tools starting in 2015.
 
-<p>
-💻 Favorite Linux distro? Ubuntu. Arch is cool, but maybe a tad overrated.<br>
-☕ Favorite drink? Coffee first, tea second (especially green or lavender).<br>
-🎵 Favorite music? EDM and House, especially Daft Punk.<br>
-🎮 Favorite games? Mostly Nintendo games. Maybe a couple of PC games like Minecraft.<br>
-🧪 Tech guilty pleasure? Adding ASCII art to code comments. Tasteful? Maybe. Necessary? Absolutely not.<br>
-</p>
+In university, I honed my skills in **C and C++**, exploring **data structures & algorithms, systems programming, DevOps, AI/ML, and cybersecurity**. I enjoy staying up-to-date with tech trends, beta-testing new tools, and occasionally reading academic papers.  
+
+When I’m not coding or exploring new ideas, you’ll find me solving **brain teasers and puzzles**, reading papers and fiction, or experimenting in the kitchen with new recipes.
+
+---
+
+### Favorite Languages
+
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
+[![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+Always curious to explore new languages. I've explored **Octave** (MATLAB), **Guile** (Lisp), and other programming languages.
+
+Currently catching up on **Rust** (especially for building cross-platform Tauri apps).
+
+`Comfortable in Docker (Portainer), virtual machines, and occasionally battling dependency dragons.`
+
+---
+
+### Strengths
+- Clear communication & strong documentation (familiar with Notion, Jira, Overleaf, and other documentation tools)
+- Mentorship experience as **Undergraduate Research Assistant** and **Graduate Teaching Assistant**  
+- Enjoy collaborating with knowledge-sharing teams
+
+---
+
+### Fun Facts
+- 💻 Favorite Linux distro: Ubuntu (Arch is cool, but maybe overrated)  
+- ☕ Favorite drink: Coffee first, tea second (green or lavender)  
+- 🎵 Favorite music: EDM & House (Daft Punk!)  
+- 🎮 Favorite games: Mostly Nintendo, some PC games like Minecraft  
+- 🧪 Tech guilty pleasure: Adding ASCII art to code comments  
+
+---
+
+### Contact Me
+[![Email](https://img.shields.io/badge/Email-will%40willnj.com-green?style=for-the-badge)](mailto:will@willnj.com)
