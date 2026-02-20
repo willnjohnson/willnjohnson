@@ -1,6 +1,6 @@
 # Hi, I'm William
 
-[![M.Sc. in Computer Science](https://img.shields.io/badge/Computer%20Science-M.Sc.-blue?style=flat-square)](https://www.utk.edu/) [![Minor: Cybersecurity](https://img.shields.io/badge/Minor-Cybersecurity-orange?style=flat-square)](https://www.utk.edu/)
+[![M.Sc. in Computer Science](https://img.shields.io/badge/Computer%20Science-M.Sc.-blue?style=flat-square)](https://www.utk.edu/) [![Cybersecurity Minor](https://img.shields.io/badge/Cybersecurity-Minor-orange?style=flat-square)](https://www.utk.edu/)
 
 I graduated from the University of Tennessee, Knoxville, in 2024, and I'm interested in software engineering, dev. ops, cybersecurity, etc.
 
