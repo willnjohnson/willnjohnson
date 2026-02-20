@@ -7,7 +7,8 @@ I graduated from the University of Tennessee, Knoxville, in 2024, and I'm intere
 ---
 
 Digital Signature
-- **Public ID:** `a0xEcXYY` — Digital Signature Verification [SigTail](https://github.com/willnjohnson/SigTail)
+**Public ID:** `a0xEcXYY` — Digital Signature Verification [SigTail](https://github.com/willnjohnson/SigTail)
+
 `sigtail:a0xEcXYY::lqb0pmp0ADUdJ6qTUy0QZIiG/wMOk6rCyAZzgizMA2JgAb4DbMp861/8ejL4OXFONP+rqoZKLWE6ApQySfv6Ag==`
 
 ---
